@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# CTF Writeups
+# PWN Counter
 
-Welcome — this is a collection of my Capture The Flag challenge writeups, organized by category.
+My CTF writeups (HTB, THM, CyberDefenders, etc.)
 
 Use the navigation on the left (or the search bar above) to browse by category:
 
