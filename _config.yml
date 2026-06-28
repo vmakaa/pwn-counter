@@ -4,7 +4,7 @@ baseurl: "/pwn-counter" # the subpath of your site, e.g. /blog — set to "" if 
 url: "https://vmakaa.github.io" # the base hostname & protocol, e.g. https://username.github.io
 
 # Theme
-remote_theme: just-the-docs/just-the-docs@v0.8.2
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 # just-the-docs settings
 color_scheme: dark
@@ -45,6 +45,7 @@ mermaid:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Exclude from processing
 exclude:
