@@ -1,0 +1,64 @@
+title: pwn counter
+description: My CTF writeups (HTB, THM, CyberDefenders, etc.)
+baseurl: "/pwn-counter" # the subpath of your site, e.g. /blog — set to "" if using a custom domain
+url: "https://vmakaa.github.io" # the base hostname & protocol, e.g. https://username.github.io
+
+# Theme
+remote_theme: just-the-docs/just-the-docs@v0.8.2
+
+# just-the-docs settings
+color_scheme: dark
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+
+# Aux links (top nav, e.g. link back to GitHub profile/repo)
+aux_links:
+  "View on GitHub":
+    - "https://github.com/vmakaa/pwn-counter"
+aux_links_new_tab: true
+
+# Footer
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2026. CTF writeups for educational purposes."
+
+# Color customization (optional, just-the-docs defaults are fine)
+nav_sort: case_insensitive
+
+# Enable copy-button on code blocks
+enable_copy_code_button: true
+
+# Mermaid diagrams (optional, useful for binary exploitation / network diagrams)
+mermaid:
+  version: "9.4.3"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - node_modules/
+
+# Collections aren't required for just-the-docs nav (folder + front matter handles it),
+# but this keeps writeups organized under a clear permalink structure.
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
