@@ -1,8 +1,8 @@
 ---
 title: "Example: Use After Free"
-parent: Heap Exploitation
-grand_parent: Pwn / Binary Exploitation
-nav_order: 1
+parent: Mr. Robot
+grand_parent: THM Boxes
+nav_order: 2
 ---
 
 # Example: Use After Free
