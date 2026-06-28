@@ -45,7 +45,7 @@ My CTF writeups (HTB, THM, CyberDefenders, etc.)
 <script>
 (function () {
   // ↓↓↓ UPDATE THIS NUMBER EVERY TIME YOU SOLVE A NEW CHALLENGE ↓↓↓
-  var PWN_COUNT = 0;
+  var PWN_COUNT = 16;
   // ↑↑↑ UPDATE THIS NUMBER EVERY TIME YOU SOLVE A NEW CHALLENGE ↑↑↑
 
   var el = document.getElementById('pwn-counter');
