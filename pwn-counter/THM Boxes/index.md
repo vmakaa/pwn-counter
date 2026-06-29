@@ -2,7 +2,8 @@
 title: THM Boxes
 has_children: true
 nav_order: 8
-permalink: pwn-counter/thm-boxes/
+parent: Pwn Counter
+permalink: /pwn-counter/thm-boxes/
 ---
 
 # THM Boxes
