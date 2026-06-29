@@ -2,7 +2,7 @@
 title: Mr. Robot
 parent: THM Boxes
 grand_parent: Pwn Counter
-nav_order: 1
+nav_order: 16
 ---
 
 # Mr. Robot CTF
