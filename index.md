@@ -6,18 +6,16 @@ nav_order: 1
 
 # Welcome
 
-This is my personal site — CTF writeups, notes, and a running tally of boxes I've pwned.
+This is my personal site/repo used to keep track of things like the CTFs I have done and their writeups, reverse engineering challenges, homelabs, etc.
 
 Use the sidebar (or search above) to browse by category:
 
-- **Web Exploitation** — SQLi, XSS, SSRF, auth bypass, etc.
-- **Pwn / Binary Exploitation** — buffer overflows, ROP chains, heap exploitation.
-- **Reverse Engineering** — disassembly, decompilation, obfuscation.
-- **Cryptography** — classical and modern crypto challenges.
-- **Forensics** — memory dumps, packet captures, steganography.
-- **Misc** — everything else (OSINT, scripting puzzles, etc).
-- **Pwn Counter** — my running boxes-pwned count, plus TryHackMe box writeups.
+- **Pwn Counter** — Counter of the boxes I have pwned as well as a writeup for each
+- **Reverse Engineering** — crackmes, malware analysis, etc.
+- **Homelabs** — homelabs.
+- **Forensics** — Mainly just CyberDefenders.
+- **Misc** — things I find interesting.
 
 ---
 
-*New writeups are added as I solve more challenges. Feel free to browse via the sidebar.*
+*As I learn more, this website will grow in content. A cool tracking of my journey*
