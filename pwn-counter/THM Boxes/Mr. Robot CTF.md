@@ -1,6 +1,7 @@
 ---
 title: Mr. Robot
 parent: THM Boxes
+grand_parent: Pwn Counter
 nav_order: 1
 ---
 
