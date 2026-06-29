@@ -2,7 +2,7 @@
 title: THM Boxes
 has_children: true
 nav_order: 8
-permalink: /thm-boxes/
+permalink: pwn-counter/thm-boxes/
 ---
 
 # THM Boxes
