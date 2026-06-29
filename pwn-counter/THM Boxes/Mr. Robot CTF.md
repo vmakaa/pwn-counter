@@ -23,7 +23,7 @@ nav_order: 1
 
 ## Recon
 
-For the recon phase I started out as always with an nmap scan using ```nmap -sC -sV -vv target_ip```. This scan revealed 3 ports open: '''port 80, port 443, and port 22'''. 
+For the recon phase I started out as always with an nmap scan using ```nmap -sC -sV -vv target_ip```. This scan revealed 3 ports open: ```port 80, port 443, and port 22```. 
 
 Seeing port 80 open, my first instinct is to check what was being served on that port via a browser. It was just some Mr. Robot references and some cool videos.
 
