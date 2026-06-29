@@ -1,5 +1,5 @@
-title: pwn counter
-description: My CTF writeups (HTB, THM, CyberDefenders, etc.)
+title: Cyber Stuff
+description: My Cyber Learnings
 baseurl: "" # the subpath of your site, e.g. /blog — set to "" if using a custom domain
 url: "https://vmakaa.github.io" # the base hostname & protocol, e.g. https://username.github.io
 
