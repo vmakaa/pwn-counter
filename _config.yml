@@ -1,6 +1,6 @@
 title: pwn counter
 description: My CTF writeups (HTB, THM, CyberDefenders, etc.)
-baseurl: "/pwn-counter" # the subpath of your site, e.g. /blog — set to "" if using a custom domain
+baseurl: "" # the subpath of your site, e.g. /blog — set to "" if using a custom domain
 url: "https://vmakaa.github.io" # the base hostname & protocol, e.g. https://username.github.io
 
 # Theme
@@ -23,7 +23,7 @@ heading_anchors: true
 # Aux links (top nav, e.g. link back to GitHub profile/repo)
 aux_links:
   "View on GitHub":
-    - "https://github.com/vmakaa/pwn-counter"
+    - "https://github.com/vmakaa"
 aux_links_new_tab: true
 
 # Footer
